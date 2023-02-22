@@ -1,0 +1,140 @@
+
+
+    *{
+        font-family: 'Roboto', sans-serif;
+        color: #3c3c3c;
+    }
+
+
+
+    p {
+        font-size: 1.3em;
+    }
+
+    .titulo{
+        font-weight: bold;
+        font-size:4em;
+        color: #3d6199;
+        margin-top: 25px;
+
+    }
+
+    .subtitulo {
+        font-weight: normal;
+        font-size: 2.3em;
+        color: #3d6199;
+    }
+
+    .tema1 {
+        font-weight:bolder;
+        font-size: 2em;
+        color: #3d6199;
+    }
+
+    .tema {
+        font-weight: normal;
+        font-size: 2em;
+        color: #3d6199;
+    }
+
+    .caja_izquierda_1 {
+
+        position: relative;
+        float:left;
+        width:250px;
+        margin-left: 15px;
+        margin-right: 25px;
+        height:1300px;
+        background-color:dodgerblue;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        padding-top: 1em;   
+     }
+
+     .caja_izquierda_2 {
+
+        position: relative;
+        float:left;
+        width:250px;
+        margin-left: 15px;
+        margin-right: 25px;
+        height:2500px;
+        background-color:dodgerblue;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        padding-top: 1em;   
+     }
+
+
+     .caja_izquierda_3 {
+
+        position: relative;
+        float:left;
+        width:250px;
+        margin-left: 15px;
+        margin-right: 25px;
+        height:1800px;
+        background-color:dodgerblue;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        padding-top: 1em;   
+     }
+
+
+
+     .caja_izquierda_4 {
+
+        position: relative;
+        float:left;
+        width:250px;
+        margin-left: 15px;
+        margin-right: 25px;
+        height:800px;
+        background-color:dodgerblue;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        padding-top: 1em;   
+     }
+
+
+   
+.texto_mail {
+    font-size: 15.6px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+.texto_telefono {
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+    .caja_central {
+
+        float: left;
+        width:80%;
+        padding-left: 1em;
+        padding-top: 1em;
+        padding-left: 10px;
+
+        height:100%;
+
+    }
+
+    .container {
+        float: left;
+    }
+
+.foto {
+    width: 100%;
+    margin-bottom: 0px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+
